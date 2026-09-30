@@ -1,0 +1,107 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "147B6905",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6797039682",
+    "_askToBuyEnabled" : false,
+    "_billingGracePeriodEnabled" : false,
+    "_billingIssuesEnabled" : false,
+    "_developerTeamID" : "Z2398J68F2",
+    "_disableDialogs" : false,
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 810754632.48029804,
+    "_locale" : "en_US",
+    "_renewalBillingIssuesEnabled" : false,
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+
+    ],
+    "_timeRate" : 0
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "22368771",
+      "localizations" : [
+
+      ],
+      "name" : "RoleIQ Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "19.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "6809811096",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Save 2 months free",
+              "displayName" : "Annual Pro Plan",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "ANNUALPRO",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "RoleIQ Pro Annual",
+          "subscriptionGroupID" : "22368771",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6809794845",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlock full access",
+              "displayName" : "Monthly Pro Plan",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "MONTHLYPRO",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "RoleIQ Pro Monthly",
+          "subscriptionGroupID" : "22368771",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}
