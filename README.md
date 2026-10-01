@@ -1,5 +1,5 @@
 <img width="1186" height="680" alt="Screenshot 2026-10-01 at 8 37 12 AM" src="https://github.com/user-attachments/assets/1bbf5809-3651-4e49-8b4d-0b9d0afa3f95" />
-# RoleEase
+RoleEase
 
 RoleEase is an AI-powered iOS career companion built with SwiftUI.
 
